@@ -1,0 +1,15 @@
+OperatorID,FullName,DCID,Phone,Product,UnitPrice,Quantity,TotalValue
+1,Alice Johnson,1,555-1001,Electronics,25.5,3,76.5
+2,Bob Smith,2,555-1002,Books,12.0,5,60.0
+3,Carol Lee,3,555-1003,Clothing,40.0,1,40.0
+4,David Park,4,555-1004,Furniture,150.0,1,150.0
+5,Eve Martin,5,555-1005,Toys,15.0,10,150.0
+6,Frank O'Neil,6,555-2001,Groceries,8.0,20,160.0
+7,Grace Kim,7,555-2002,Hardware,60.0,2,120.0
+8,Hector Ruiz,8,555-2003,Garden,22.0,6,132.0
+9,Ivy Zhao,9,555-2004,Pharmaceuticals,5.0,50,250.0
+10,Jack Wilson,10,555-2005,Automotive,80.0,2,160.0
+11,Karen Young,1,555-1101,Accessories,30.0,2,60.0
+12,Leo Brown,2,555-1102,Stationery,3.0,100,300.0
+13,Maya Singh,3,555-1103,Electronics,60.0,1,60.0
+14,Nate Ford,4,555-1104,Clothing,25.0,5,125.0

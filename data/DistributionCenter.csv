@@ -1,0 +1,11 @@
+DCID,Name,Phone,StreetNumber,StreetName,City,State,Country,IsCityCenter
+1,Central Hub A,555-0101,100,Market St,Metropolis,StateX,CountryY,True
+2,Central Hub B,555-0102,200,Broadway,Metropolis,StateX,CountryY,True
+3,Central Hub C,555-0103,300,1st Ave,Metropolis,StateX,CountryY,True
+4,Central Hub D,555-0104,400,King Rd,Metropolis,StateX,CountryY,True
+5,Central Hub E,555-0105,500,Queen Rd,Metropolis,StateX,CountryY,True
+6,Rural Hub F,555-0201,10,Farm Rd,Smallville,StateX,CountryY,False
+7,Rural Hub G,555-0202,20,Country Ln,Smallville,StateX,CountryY,False
+8,Rural Hub H,555-0203,30,Hill Rd,Smallville,StateX,CountryY,False
+9,Rural Hub I,555-0204,40,Valley Rd,Smallville,StateX,CountryY,False
+10,Rural Hub J,555-0205,50,Lake Rd,Smallville,StateX,CountryY,False
